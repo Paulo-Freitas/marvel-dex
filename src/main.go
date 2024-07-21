@@ -2,9 +2,9 @@ package main
 
 import (
 	"embed"
-	"fabricioveronez/app-go/handler"
 	"io/fs"
 	"net/http"
+	"paulo098/app-go/handler"
 )
 
 //go:embed static/*
